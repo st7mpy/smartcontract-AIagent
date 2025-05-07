@@ -129,8 +129,4 @@ Model: `Enhanced-Slither-Auditor-7B.Q4_K_M.gguf` by SecureChain AI
 MIT License
 
 ```
-
----
-
-Let me know if you’d like this personalized with your GitHub username or model download link.
 ```
